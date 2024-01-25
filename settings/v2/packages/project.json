@@ -1,0 +1,38 @@
+{
+  "__version__": "1.0.4",
+  "physics": {
+    "maxSubSteps": 1,
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "TANK"
+      },
+      {
+        "index": 2,
+        "name": "BULLET"
+      },
+      {
+        "index": 3,
+        "name": "WALL"
+      },
+      {
+        "index": 4,
+        "name": "ENEMY"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 16,
+      "2": 24,
+      "3": 4,
+      "4": 6
+    }
+  },
+  "general": {
+    "designResolution": {
+      "height": 600,
+      "fitHeight": true,
+      "fitWidth": true
+    }
+  }
+}

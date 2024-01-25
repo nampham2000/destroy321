@@ -1,0 +1,12 @@
+{
+  "name": "detroyBox",
+  "uuid": "7ab3247f-954f-4b64-a783-d38d27e83074",
+  "creator": {
+    "version": "3.7.2"
+  },
+  "dependencies": {
+    "@onechaintech/gamesdk": "^0.0.31",
+    "@onechaintech/gamesdk-beta": "^0.0.18",
+    "@onechaintech/gamesdk-dev": "^0.0.32"
+  }
+}
